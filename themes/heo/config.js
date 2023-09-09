@@ -13,7 +13,7 @@ const CONFIG = {
   HERO_TITLE_2: '吟咏性情也',
   HERO_TITLE_3: 'SNYII.COM',
   HERO_TITLE_4: '',
-  HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  HERO_TITLE_5: '醉漾轻舟，信流引到花深处',
   HERO_TITLE_LINK: 'https://snyii.cn',
 
   // 英雄区显示三个置顶分类
@@ -41,50 +41,50 @@ const CONFIG = {
   GROUP_ICONS: [
     {
       title_1: '',
-      img_1: 'https://github.com/Esn-o/blog-img/blob/main/q1.png',
+      img_1: '/images/heo/q1.png',
       color_1: '#FFFFFF',
       title_2: '',
-      img_2: 'https://github.com/Esn-o/blog-img/blob/main/q2.png',
+      img_2: '/images/heo/q2.png',
       color_2: '#FFFFFF'
     },
     {
       title_1: '',
-      img_1: 'https://github.com/Esn-o/blog-img/blob/main/q3.png',
+      img_1: '/images/heo/q3.png',
       color_1: '#FFFFFF',
       title_2: '',
-      img_2: 'https://github.com/Esn-o/blog-img/blob/main/q4.png',
+      img_2: '/images/heo/q4.png',
       color_2: '#FFFFFF'
     },
     {
       title_1: '',
-      img_1: 'https://github.com/Esn-o/blog-img/blob/main/q5.png',
+      img_1: '/images/heo/q5.png',
       color_1: '#FFFFFF',
       title_2: '',
-      img_2: 'https://github.com/Esn-o/blog-img/blob/main/q6.png',
+      img_2: '/images/heo/q6.png',
       color_2: '#FFFFFF'
     },
     {
       title_1: '',
-      img_1: 'https://github.com/Esn-o/blog-img/blob/main/q7.png',
+      img_1: '/images/heo/q7.png',
       color_1: '#FFFFFF',
       title_2: '',
-      img_2: 'https://github.com/Esn-o/blog-img/blob/main/q8.png',
+      img_2: '/images/heo/q8.png',
       color_2: '#FFFFFF'
     },
     {
       title_1: '',
-      img_1: 'https://github.com/Esn-o/blog-img/blob/main/q9.png',
+      img_1: '/images/heo/q9.png',
       color_1: '#FFFFFF',
       title_2: '',
-      img_2: 'https://github.com/Esn-o/blog-img/blob/main/q10.png',
+      img_2: '/images/heo/q10.png',
       color_2: '#FFFFFF'
     },
     {
       title_1: '',
-      img_1: 'https://github.com/Esn-o/blog-img/blob/main/q11.png',
+      img_1: '/images/heo/q11.png',
       color_1: '#FFFFFF',
       title_2: '',
-      img_2: 'https://github.com/Esn-o/blog-img/blob/main/q12.png',
+      img_2: '/images/heo/q12.png',
       color_2: '#FFFFFF'
     }
   ],
