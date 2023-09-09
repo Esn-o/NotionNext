@@ -41,50 +41,34 @@ const CONFIG = {
   GROUP_ICONS: [
     {
       title_1: '',
-      img_1: '/images/heo/q1.png',
+      img_1: '/images/heo/1_updated.jpg',
       color_1: '#FFFFFF',
       title_2: '',
-      img_2: '/images/heo/q2.png',
+      img_2: '/images/heo/2_updated.jpg',
       color_2: '#FFFFFF'
     },
     {
       title_1: '',
-      img_1: '/images/heo/q3.png',
+      img_1: '/images/heo/3_updated.jpg',
       color_1: '#FFFFFF',
       title_2: '',
-      img_2: '/images/heo/q4.png',
+      img_2: '/images/heo/4_updated.jpg',
       color_2: '#FFFFFF'
     },
     {
       title_1: '',
-      img_1: '/images/heo/q5.png',
+      img_1: '/images/heo/5_updated.jpg',
       color_1: '#FFFFFF',
       title_2: '',
-      img_2: '/images/heo/q6.png',
+      img_2: '/images/heo/6_updated.jpg',
       color_2: '#FFFFFF'
     },
     {
       title_1: '',
-      img_1: '/images/heo/q7.png',
+      img_1: '/images/heo/7_updated.jpg',
       color_1: '#FFFFFF',
       title_2: '',
-      img_2: '/images/heo/q8.png',
-      color_2: '#FFFFFF'
-    },
-    {
-      title_1: '',
-      img_1: '/images/heo/q9.png',
-      color_1: '#FFFFFF',
-      title_2: '',
-      img_2: '/images/heo/q10.png',
-      color_2: '#FFFFFF'
-    },
-    {
-      title_1: '',
-      img_1: '/images/heo/q11.png',
-      color_1: '#FFFFFF',
-      title_2: '',
-      img_2: '/images/heo/q12.png',
+      img_2: '/images/heo/8_updated.jpg',
       color_2: '#FFFFFF'
     }
   ],
